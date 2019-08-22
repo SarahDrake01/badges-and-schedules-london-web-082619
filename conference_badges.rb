@@ -24,6 +24,6 @@ return myarray
 end
 
 def printer(array)
-  
+  batch_badge_creator
   
 end
