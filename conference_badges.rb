@@ -22,3 +22,4 @@ def assign_rooms(array)
 end
 return myarray
 end
+
