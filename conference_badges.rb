@@ -28,6 +28,6 @@ def printer(array)
     puts id
   end
   
-  assign_rooms(array)
+  assign_rooms(array).each do |id
   
 end
