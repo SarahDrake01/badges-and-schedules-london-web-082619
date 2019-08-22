@@ -13,6 +13,7 @@ def batch_badge_creator(myarray)
   return newarray
 end
 
-def assign_rooms
+def assign_rooms(array)
+  
   
 end
