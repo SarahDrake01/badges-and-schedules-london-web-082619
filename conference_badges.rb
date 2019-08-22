@@ -23,3 +23,7 @@ end
 return myarray
 end
 
+def printer(array)
+  
+  
+end
