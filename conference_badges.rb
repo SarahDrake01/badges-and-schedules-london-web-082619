@@ -24,12 +24,12 @@ return myarray
 end
 
 def printer(array)
-  batch_badge_creator(array).each do |iiid|
+  batch_badge_creator(array).each do |name|
     puts iiid
   end 
   
-  assign_rooms(array).each do |iiid|
-    puts iiid 
+  assign_rooms(array).each do |name|
+    puts name
   end
 end 
   
